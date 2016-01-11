@@ -101,6 +101,8 @@ def sobel_filter(filename):
     axes[0,1].legend()
     axes[0,1].set_title('X-Gradient')
     axes[0,1].axis('off')
+
+    # see if you can find this
     
     #Y-Gradient calculation and display (bottom left)
     Grady = [[-1,-2,-1],
