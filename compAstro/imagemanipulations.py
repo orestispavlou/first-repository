@@ -103,6 +103,7 @@ def sobel_filter(filename):
     axes[0,1].axis('off')
 
     # see if you can find this
+    # found it!!!
     
     #Y-Gradient calculation and display (bottom left)
     Grady = [[-1,-2,-1],
